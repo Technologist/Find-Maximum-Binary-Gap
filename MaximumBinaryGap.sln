@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26228.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumBinaryGap", "MaximumBinaryGap\MaximumBinaryGap.csproj", "{6D7A738C-CBEF-48AF-B811-471BB684AAC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumBinaryGapTests", "MaximumBinaryGapTests\MaximumBinaryGapTests.csproj", "{2129FCD8-101E-4CCF-9978-1CF47344CA3F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6D7A738C-CBEF-48AF-B811-471BB684AAC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D7A738C-CBEF-48AF-B811-471BB684AAC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D7A738C-CBEF-48AF-B811-471BB684AAC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2129FCD8-101E-4CCF-9978-1CF47344CA3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2129FCD8-101E-4CCF-9978-1CF47344CA3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2129FCD8-101E-4CCF-9978-1CF47344CA3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2129FCD8-101E-4CCF-9978-1CF47344CA3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
